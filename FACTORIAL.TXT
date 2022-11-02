@@ -1,0 +1,30 @@
+// factorial of a given number.
+#include<iostream.h>
+#include<conio.h>
+double factorial(int fact)
+{
+  if(fact<=0)
+  {
+    cout<<"Factorial for negative number is not possible.";
+  }
+  else
+  {
+    double facts = 1;
+    for(int i=fact; i>=1; i--)
+    {
+      facts = facts * i;
+    }
+    return facts;
+  }
+  return 0;
+}
+void main()
+{
+  clrscr();
+  int fact;
+  cout<<"Enter a number to find the factorial : ";
+  cin>>fact;
+  fact = factorial(fact);
+  cout<<"Factorial of a given number is : "<<fact;
+  getch();
+}

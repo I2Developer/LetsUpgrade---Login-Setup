@@ -1,0 +1,21 @@
+// Area of a circle using function;
+#include<iostream.h>
+#include<conio.h>
+float area_of_circle(float r)
+{
+  float area;
+  area = 3.142 * r * r;
+  return area;
+}
+void main()
+{
+  clrscr();
+  float r;
+  float area;
+  cout<<"\n Hello World, ItsMeVISH:) \n";
+  cout<<"\n Enter a value for radius of a circle : ";
+  cin>>r;
+  area = area_of_circle(r);
+  cout<<"\n The Area of circle is : "<<area;
+  getch();
+}
