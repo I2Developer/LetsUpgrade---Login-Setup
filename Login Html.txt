@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> ItsMeVISH:) </title>
+    </head>
+    <body>
+        <h1> Hello Everyone, Welcome </h1>
+        <section>
+            <p class="login"> <b> Login Page </b> </p>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbM-2IhHeIHlulPlhBeI_F6pSRxwxd_KcGsYM3Bm_NMX6LM6I54d4i6KR_nW6z07PB7KI&usqp=CAU" width=100px; height=100px>
+            <p> <b> Username </b> </p>
+            <input type="text" placeholder="Enter e-mail ID / Phone No" text-align="center">
+            <p> <b> Password </b> </p>
+            <input type="password" placeholder="Enter your password" text-align="center"> <br>
+            <a href="about:blank" target="blank"> <button class="SignIn" type="button"> Sign In </button> </a>
+            <p> <a href="about:blank" target="blank"> Forget Password? </a> </p>
+        </section>
+        <footer class="foot"> &copy; Copyrights owned by Cafe Brandings. &emsp; &emsp; Contact : 9080950317. &emsp; &emsp; Further details? Have a look on our <a target="blank" href="http://cafebrandings.com/"> <b> portfolio </b> </a> </footer>
+    </body>
+</html>
