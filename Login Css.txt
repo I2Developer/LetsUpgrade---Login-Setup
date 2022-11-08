@@ -1,0 +1,53 @@
+<style>
+	body{
+      	background-color: white;
+            background-image: url("https://t3.ftcdn.net/jpg/03/55/60/70/360_F_355607062_zYMS8jaz4SfoykpWz5oViRVKL32IabTP.jpg");
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+	}
+
+      h1{
+            color: blue;
+      }
+
+      h1:hover{
+            color: green;
+      }
+
+      section{
+            text-align: center;
+            color: black;
+            border: 5px solid green;
+            width: 350px;
+            height: 400px;
+            font-family: Georgia;
+            margin: 30px 550px;
+            display: inline-block;
+            padding: 10px 0px 25px 0px;
+      }
+
+      .foot{
+            margin: 60px 0px 0px 0px;
+            background-color: none;
+            color: black;
+            font-size: 20px;
+            font-weight: 550;
+            text-align: center;
+            font-family: Arial;
+       }
+
+       .login{
+            color: darkmagenta;
+            font-size: 18px;
+       }
+
+       .SignIn{
+            margin: 20px 0px 0px 0px;
+            padding: 10px 20px;
+            border: 2px solid yellow;
+            background-color: red;
+            color: white;
+            cursor: pointer;
+       }
+</style>
