@@ -15,6 +15,6 @@
             <a href="about:blank" target="blank"> <button class="SignIn" type="button"> Sign In </button> </a>
             <p> <a href="about:blank" target="blank"> Forget Password? </a> </p>
         </section>
-        <footer class="foot"> &copy; Copyrights owned by Cafe Brandings. &emsp; &emsp; Contact : 9080950317. &emsp; &emsp; Further details? Have a look on our <a target="blank" href="http://cafebrandings.com/"> <b> portfolio </b> </a> </footer>
+        <footer class="foot"> &copy; Copyrights owned by XXXXX. &emsp; &emsp; Contact : 90XXYYZZ17. &emsp; &emsp; Further details? Have a look on our <a target="blank" href="about:blank"> <b> portfolio </b> </a> </footer>
     </body>
 </html>
